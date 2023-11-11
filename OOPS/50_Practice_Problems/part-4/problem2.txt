@@ -1,0 +1,2 @@
+What is the correct way to declare a function virtual?
+B. virtual int fun()=0;

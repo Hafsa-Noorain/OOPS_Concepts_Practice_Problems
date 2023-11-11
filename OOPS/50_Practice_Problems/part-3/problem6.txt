@@ -1,0 +1,2 @@
+Which of the following falls under the category Static Polymorphism?
+D. All of the above

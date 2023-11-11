@@ -1,0 +1,4 @@
+Which of the following is/are allowed in C++, B being base class and D being derived class
+A. b obj=D();
+C. B *ptr; D obj;
+ptr=&obj;

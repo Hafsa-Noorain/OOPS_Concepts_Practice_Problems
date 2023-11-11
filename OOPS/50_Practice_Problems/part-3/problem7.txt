@@ -1,0 +1,2 @@
+Which role a constructor plays in the class?
+D. Initializes an object
